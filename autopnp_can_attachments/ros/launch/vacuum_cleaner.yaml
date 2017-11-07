@@ -1,3 +1,0 @@
-CanDevice: /dev/pcan0
-CanBaudrate: 1000000
-ModId: 13        # module ID

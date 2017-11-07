@@ -1,1 +1,0 @@
-xme_hal_qt_after_use_callback ( xme_hal_qt)

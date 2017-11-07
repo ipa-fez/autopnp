@@ -1,1 +1,0 @@
-xme_hal_ros_before_use_callback ( xme_hal_ros)

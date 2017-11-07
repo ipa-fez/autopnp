@@ -1,1 +1,0 @@
-../../autoPnP/adv/exampleGUI_-build-desktop-Qt_4_8_1_in_Pfad__System__Release/ui_window.h
